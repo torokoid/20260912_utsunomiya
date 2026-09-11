@@ -201,7 +201,7 @@ p.note { display: none; }
 <h2><span class="yellow">専門書コーナーもほぼ固定メンバー</span></h2>
 <a href="20260912_00015.jpeg" target="_blank"><img src="20260912_00015.jpeg" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow">Claude Codeが新目かも・・・</span></h2>
+<h2><span class="yellow">Claude Codeが新し目かも・・・</span></h2>
 <a href="20260912_00016.jpeg" target="_blank"><img src="20260912_00016.jpeg" alt="サンプル画像" class="responsive-media"></a>
 
 <h2><span class="yellow">東北物産展が盛り上がってました</span></h2>
