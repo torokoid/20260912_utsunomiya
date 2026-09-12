@@ -153,7 +153,7 @@ p.note { display: none; }
 
 <!--QRコードの挿入例-->
 <p align="left"> <img src="QR_2026Sep12.png" alt="アクセス用QRコード" width="100">QR for Access</p>
-<p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~S.Hada</marquee></p>
+<p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~alis</marquee></p>
 
 <!--流れ文字の挿入例-->
 <h1><span class="yellow"><marquee behavior="left">!!! 2026/09/12、ショッピングモールのお花屋さんと本屋さんから、プールの空まで !!!</marquee></span></h1>
@@ -426,7 +426,7 @@ https://youtube.com/shorts/1MxKGMEFFR4?feature=share<br>
 
 <!-- フッタ -->
 <footer>
-<p>Copyright 2026/09/12 S.Hada</p>
+<p>Copyright 2026/09/12 alis</p>
 </footer>
 
 <!--HPにさまざまなJavaScriptを呼び込むための書式-->
